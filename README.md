@@ -38,7 +38,7 @@ This project involves the analysis of the Titanic dataset, exploring factors inf
 - **README.md:** Overview of the project, challenges, and solutions.
 
 ## Usage
-1. Navigate to the project directory: `[(cd Titanic-Analysis](https://github.com/najirh/Titanic_Survivors_Analysis_Decision_Tree/tree/main)]`
+1. Navigate to the project directory: `https://github.com/najirh/Titanic_Survivors_Analysis_Decision_Tree/tree/main`
 2. Follow the instructions in the notebooks and scripts for detailed analysis and model deployment.
 
 Feel free to explore and contribute to the project!
